@@ -1,4 +1,4 @@
-import google.generativeai as genai  
+import google.generativeai as genai   
 from flask import Flask, request, jsonify, render_template 
 import requests
 import os 
